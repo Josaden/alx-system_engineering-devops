@@ -1,2 +1,1 @@
-#!/bin/bash
-Not an empty file
+script that prints the absolute path name of the current working directory.
