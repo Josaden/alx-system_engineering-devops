@@ -1,1 +1,2 @@
-Th
+#!/bin/bash
+This is the first line
