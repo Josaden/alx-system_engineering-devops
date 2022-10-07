@@ -1,1 +1,3 @@
-#!/bin/bash\nwhoami
+#!/bin/bash
+whoami
+
