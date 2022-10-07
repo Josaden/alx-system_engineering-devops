@@ -1,2 +1,2 @@
 #!/bin/bash
- chmod 755 d[0-9]/workspace
+ chmod 755 d/alx-system_engineer-devops
